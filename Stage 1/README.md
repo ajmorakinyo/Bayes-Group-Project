@@ -1,3 +1,3 @@
 ## Stage 1
 
-Scripts and codes for the preparation of the capstone project can be found in this folder
+Scripts for the preparation of the first stage of the premiere project can be uploaded to this folder
