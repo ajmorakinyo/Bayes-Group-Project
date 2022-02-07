@@ -1,1 +1,1 @@
-# Bayes-Group-Project-Stage-1
+# Bayes-Group-Project
