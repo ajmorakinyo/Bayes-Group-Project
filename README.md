@@ -1,3 +1,3 @@
 # Bayes-Group-Project
 
-For the HDSC Winter 22 premiere project, this repository will serve as a collection of scripts that will help us as we prepare for our presentation.
+This repository served as a collection of scripts that helped the Bayes Group of the HDSC Winter 22 premiere project as we prepared for our presentation.
